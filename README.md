@@ -17,7 +17,7 @@ Este repositório contém uma calculadora simples implementada na linguagem Brai
 
 **Entrada:**
 
-O programa solicita a entrada de dois números (de 0 a 9) e um operador (+ ou -).
+O programa solicita a entrada de dois números (de 0 a 9) e um operador (`+` ou `-`).
 A entrada é feita em sequência, separada por espaços ou sem separação, dependendo do interpretador usado.
 
 **Processamento:**
@@ -30,11 +30,13 @@ O resultado da operação é exibido no console ou na saída padrão.
 
 ## Como executar
 
-Copie o código da calculadora.
+**Copie o código da calculadora.**
 
 Cole-o em um interpretador de Brainfuck. Recomendo o uso de:
-https://copy.sh/brainfuck/
-https://tio.run/
+
+- https://copy.sh/brainfuck/
+
+- https://tio.run/
 
 Siga as instruções para inserir os números e o operador.
 
@@ -54,7 +56,7 @@ Copiar código
 
 ## Melhorias Futuras
 
-Adicionar suporte para multiplicação (*) e divisão (/).
+Adicionar suporte para multiplicação (`*`) e divisão (`/`).
 
 Permitir entrada de números maiores que 9.
 
@@ -69,8 +71,4 @@ Melhorar a interface do usuário com mensagens mais detalhadas.
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir `issues` ou enviar `pull requests`.
