@@ -43,16 +43,20 @@ Siga as instruções para inserir os números e o operador.
 ## Exemplo de Uso
 
 Entrada:
-2+3
+
+`2+3`
+
 Saída:
-Copiar código
-5
+
+`5`
+
 Entrada:
-Copiar código
-9-4
+
+`9-4`
+
 Saída:
-Copiar código
-5
+
+`5`
 
 ## Melhorias Futuras
 
